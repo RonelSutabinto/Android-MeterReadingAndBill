@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/iFiles"
+        android:title="Files">
+        <menu>
+            <item
+                android:id="@+id/iGenerateResult"
+                android:alphabeticShortcut="g"
+                android:title="Generate Result Text">
+            </item>
+            <item
+                android:id="@+id/iProcessTextFile"
+                android:alphabeticShortcut="p"
+                android:title="Process Text File">
+            </item>
+            <item
+                android:id="@+id/iZoneReport"
+                android:title="Zone Report"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/iEntry"
+        android:title="Entry">
+        <menu>
+            <item
+                android:id="@+id/iConsumerList"
+                android:alphabeticShortcut="c"
+                android:title="Consumer List">
+            </item>
+            <item
+                android:id="@+id/iSummaryList"
+                android:alphabeticShortcut="s"
+                android:title="Summary">
+            </item>
+            <item
+                android:id="@+id/iNewConList"
+                android:title="New Connection List"/>
+            <item
+                android:id="@+id/iBatchPrinting"
+                android:title="BatchPrinting">
+            </item>
+            <item android:id="@+id/iPreviousRecord" android:title="Previous Record"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/iBluetoothSetting"
+        android:title="Bluetooth Setting"/>
+
+</menu>

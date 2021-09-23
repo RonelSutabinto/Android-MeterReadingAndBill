@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+    
+    <TextView
+            android:id="@+id/tvaccountnumber_bh"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"                  
+            
+            android:textSize="20sp" 
+            />
+        
+        <TextView
+            android:id="@+id/tvname_bh"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"           
+            
+            android:textSize="20sp" />
+        <TextView 
+            android:id="@+id/tvcount_bh"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:textSize="20sp"/>
+        
+        <TextView 
+            android:id="@+id/tvavrg_bh"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:textSize="20sp"/>
+<!--  
+        <TextView
+            android:id="@+id/tvpreviousr_bh"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"                  
+            
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/tvpresentr_bh"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"          
+            android:layout_marginLeft="5dp"            
+            android:textSize="20sp" />
+        
+        <TextView 
+            android:id="@+id/tvkwh_bh"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"           
+            android:layout_marginLeft="5dp"
+            
+            android:textSize="20sp"/>
+         <TextView 
+             android:id="@+id/tvbillmonth_bh"
+             android:layout_width="80dp"
+             android:layout_height="wrap_content"
+             android:layout_marginLeft="5dp"
+            
+             android:textSize="20sp"/>
+         <TextView 
+            android:id="@+id/tvtotal_bh"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"            
+            android:layout_marginLeft="5dp"
+            
+            android:textSize="20sp"/> -->
+</LinearLayout>

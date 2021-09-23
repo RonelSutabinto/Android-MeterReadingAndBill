@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+            android:id="@+id/clLLSearchHolder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_alignParentTop="true">
+
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:src="@drawable/search"
+                android:contentDescription="@string/clSearchimage"/>
+
+        <EditText
+                android:id="@+id/etclSearch"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:textSize="20sp"
+                android:hint="@string/clSearchHint"/>
+
+    </LinearLayout>
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none"
+        android:layout_below="@id/clLLSearchHolder"
+        android:layout_above="@+id/clllConsumerTotalHolder">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="@drawable/borderbottom">
+
+                <TextView
+                    android:layout_width="110dp"
+                    android:layout_height="fill_parent"
+                    android:layout_marginLeft="5dp"
+                    android:gravity="center"
+                    android:text="@string/clAccountNumber"
+                    android:textSize="20sp"
+                     />
+                 <TextView 
+                    android:layout_width="120dp"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="Pole Number"
+                    android:textSize="20sp"
+                    />
+                <TextView
+                    android:layout_width="160dp"
+                    android:layout_height="fill_parent"
+                    android:layout_marginLeft="5dp"
+                    android:gravity="center"
+                    android:text="@string/clName"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:layout_width="160dp"
+                    android:layout_height="fill_parent"
+                    android:layout_marginLeft="5dp"
+                    android:gravity="center"
+                    android:text="@string/clAddress"
+                    android:textSize="20sp" />
+
+               
+                <TextView
+                    android:layout_width="80dp"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/clMeterSerial"
+                    android:textSize="20sp" />
+                <TextView
+                    android:layout_width="80dp"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/clKilowatthour"
+                    android:textSize="20sp"/>
+                <!-- 
+                <TextView 
+                    android:layout_width="120dp"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="CurrBill"
+                    android:textSize="20sp"/>
+                <TextView 
+                    android:layout_width="120dp"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="Total Bill"
+                    android:textSize="20sp"/>
+                     -->
+                <TextView 
+                    android:layout_width="80dp"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/conStatus"
+                    android:textSize="20sp"/>
+                
+                
+               
+               <!--  <TextView 
+                    android:layout_width="80dp"
+                    android:layout_height="fill_parent" 
+                    android:gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:text="reference"
+                    android:textSize="20sp"
+                     /> -->
+               
+            </LinearLayout>
+
+            <ListView
+                android:id="@android:id/list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+            </ListView>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <LinearLayout
+            android:id="@+id/clllConsumerTotalHolder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_alignParentBottom="true">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:gravity="left"
+                android:text="@string/consumerListTotalRecordlabel"
+                android:textSize="20sp"
+                />
+
+        <TextView
+                android:id="@+id/cltvTotalConsumer"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="right"
+                android:textSize="20sp"/>
+
+    </LinearLayout>
+</RelativeLayout>

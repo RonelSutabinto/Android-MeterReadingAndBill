@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <com.androidapp.mytools.bluetooth.BluetoothDevicePreference
+        android:key="bluetooth_mac"
+        android:title="Bluetooth Device"
+        android:dialogTitle="Choose a default printer">
+        </com.androidapp.mytools.bluetooth.BluetoothDevicePreference>
+    <CheckBoxPreference
+        android:key="bluetooth_always_on"
+        android:title="Bluetooth always on"/>
+</PreferenceScreen>

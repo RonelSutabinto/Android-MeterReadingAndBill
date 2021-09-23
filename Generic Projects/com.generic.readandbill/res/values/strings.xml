@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Read And Bill</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="account_number">Acct # :</string>
+    <string name="name">Name :</string>
+    <string name="address">Addr :</string>
+    <string name="cmreading">CMRdg :</string>
+    <string name="cmdiff">CMDiff :</string>
+    <string name="initialreading">Init Rdg :</string>
+    <string name="feedbackcode">Feedback :</string>
+    <string name="reading">Reading :</string>
+    <string name="kilowatthour">Kwhr</string>
+    <string name="totalbill">Total Bill</string>
+    <string name="remarks">Remarks :</string>
+    <string name="fieldfinding">Field Finding</string>
+    <string name="fieldfindingcode">FF. Code</string>
+    <string name="btnconfirm">Save</string>
+    <string name="btncancel">Cancel</string>
+    <string name="btnconfirmandprint">Save And Print</string>
+    <string name="clAccountNumber">Account Number</string>
+    <string name="clName">Name</string>
+    <string name="clAddress">Address</string>
+    <string name="clMeterSerial">Meter Serial</string>
+    <string name="clKilowatthour">Kilowatthour</string>
+    <string name="conStatus">Conn Status</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_fieldfindingentry">FieldFinding Entry</string>
+    <string name="clSequence">Sequence</string>
+    <string name="ssImageView">Logo</string>
+
+    <string name="clSearchimage">SearchImage</string>
+    <string name="clSearchHint">Input string for searcing</string>
+    <string name="consumerListTotalRecordlabel">TotalConsumer</string>
+    <string name="demand">RdngDmnd :</string>
+</resources>

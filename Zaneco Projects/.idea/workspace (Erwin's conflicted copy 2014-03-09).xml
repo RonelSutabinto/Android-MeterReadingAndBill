@@ -1,0 +1,1459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="com.zaneco.readandbill" />
+        <option name="logTagPattern" value="" />
+        <option name="name" value="Zaneco Read And Bill" />
+        <option name="pid" value="" />
+      </filter>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="com.zaneco.notice48hrs" />
+        <option name="logTagPattern" value="" />
+        <option name="name" value="Zaneco Notice 48hrs" />
+        <option name="pid" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidDesignerProfile">
+    <option name="fullProfile">
+      <profile>
+        <option name="device" value="2.7in QVGA" />
+        <option name="deviceConfiguration" value="Portrait" />
+        <option name="targetHashString" value="android-18" />
+        <option name="theme" value="AppTheme" />
+      </profile>
+    </option>
+    <option name="selection" value="[Full]" />
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState />
+    </option>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Zaneco Notice 48hrs" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac3b3593-e6ab-4e12-9433-7961b42854eb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.svn/pristine/64/64e71c8de6491aeabebf6388640f43bcc979de41.svn-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.svn/pristine/7c/7cbb0a80689da95c9758ccbb9b8632edc6630476.svn-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/bin/classes/com/lamerman/BuildConfig.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/bin/classes/com/lamerman/FileDialog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/bin/classes/com/lamerman/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/bin/classes/com/lamerman/SelectionMode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/libs/android-support-v4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/libs/android-support-v4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/libs/android-support-v4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.svn/pristine/bc/bcd851ace94e22515db4e4c15df3ed0e969aab3f.svn-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/drawable-xxhdpi/collection.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/bin/res/drawable/file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/res/drawable/file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/bin/fileexplorer.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/bin/res/drawable/folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/res/drawable/folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/drawable-xxhdpi/genericsplashscreen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/ic_launcher-web.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/ic_launcher-web.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/res/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/res/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/drawable-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/res/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/res/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/res/drawable-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/drawable-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/ic_splash-web.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/drawable-hdpi/ic_splash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/drawable-mdpi/ic_splash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/drawable-xhdpi/ic_splash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/drawable-xxhdpi/ic_splash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/bin/res/drawable/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/res/drawable/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/res/drawable-xhdpi/notice.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/drawable-xxhdpi/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/drawable-xxhdpi/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/drawable-xxhdpi/tawadlogov4.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.svn/wc.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.svn/pristine/18/18dde5cb8957e0c55ac6a67e2bc152ac971afca9.svn-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.svn/pristine/28/2882139a3deb8cb1621fde03763f7a2d0a8be450.svn-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.svn/pristine/2d/2d78f52cf0e51fe288f0d9233cba9c0958361d39.svn-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.svn/pristine/55/55f147ed70bc9d89b8ce9e9f1fb0456cdc49f389.svn-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.svn/pristine/69/696ce3029450977cdb5d793696f208f839483256.svn-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.svn/pristine/6f/6f91f815c6fef01eaff9be3d20278a9d1855f676.svn-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.svn/pristine/89/895be79c8c93761e9320e5d7f965ef5509d7f661.svn-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/AcceptPayment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/Logic/AcceptPaymentLogic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/bin/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/bin/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/bin/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/bin/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/bin/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/src/com/androidapp/mytools/AppPreferenceActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/ArrayAdapterCollectionDetail.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/ArrayAdapterConsumer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/ArrayAdapterPowerBill.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/src/com/androidapp/mytools/objectmanager/ArrayManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/BatchPrintingSOA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/src/com/androidapp/mytools/bluetooth/Bixolon_SRP_R300_Driver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/src/com/androidapp/mytools/bluetooth/BluetoothDevicePreference.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/src/com/androidapp/mytools/bluetooth/BluetoothSharedPrefs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/gen/com/lamerman/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/gen/com/androidapp/mytools/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/gen/com/generic/collection/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/gen/com/generic/notice48hrs/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/gen/com/generic/readandbill/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/database/Collection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/database/CollectionDataHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/datasource/CollectionDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/database/CollectionDetail.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/datasource/CollectionDetailDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/table/CollectionDetailTable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/CollectionEntry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/table/CollectionTable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/Logic/Compute.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ComputeCharges.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/database/Consumer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/database/Consumer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/Consumer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/ConsumerArrayAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/ConsumerArrayAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/adapters/ConsumerCursorAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/datasource/ConsumerDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/database/ConsumerDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ConsumerDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/ConsumerList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/adapters/ConsumerListAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/content_provider/ConsumerListContentProvieder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/database/ConsumerListData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/datasource/ConsumerListDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/database/ConsumerPowerBill.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/datasource/ConsumerPowerBillDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/table/ConsumerTable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/src/com/androidapp/mytools/objectmanager/DoubleManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/src/com/androidapp/mytools/bluetooth/ExtechPrinterDriver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/FieldFindingDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/FieldFindings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/src/com/lamerman/FileDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/FileExplorer.eml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/FileExplorer.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/gen/com/lamerman/Manifest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/gen/com/androidapp/mytools/Manifest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/gen/com/generic/collection/Manifest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/gen/com/generic/notice48hrs/Manifest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/gen/com/generic/readandbill/Manifest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/MyConsumerList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/MyConsumerList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/MyFieldFindingEntry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/src/com/androidapp/mytools/bluetooth/MyPrinter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/MyReadingEntry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/database/Notice48hrsDatabaseHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/OfficialReceiptGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/database/PaymentDetail.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/datasource/PaymentDetailDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/database/PaymentSummary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/datasource/PaymentSummaryDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/database/PowerBill.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/datasource/PowerBillDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/adapters/PowerBillListAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/Logic/PowerBillListLogic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/table/PowerBillTable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/src/com/androidapp/mytools/bluetooth/PrinterControls.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/gen/com/lamerman/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/gen/com/androidapp/mytools/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/gen/com/generic/collection/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/gen/com/generic/notice48hrs/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/gen/com/generic/readandbill/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/bin/R.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/bin/R.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/bin/R.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/bin/R.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/bin/R.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/RateDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/Rates.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ReadandBillDatabaseHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/Reading.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ReadingDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/src/com/lamerman/SelectionMode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/SplashScreen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/SplashScreen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/SplashScreen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/Logic/SplashScreenLogic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/StatementGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/StringHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/src/com/androidapp/mytools/objectmanager/StringManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/database/SummaryDetail.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/datasource/SummaryDetailDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/SummaryList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/SummaryList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/SummaryList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/adapters/SummaryListAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/database/SummaryRecap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/datasource/SummaryRecapDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/database/Unpaid.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/database/UnpaidDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/UnreadAccounts.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/database/UserProfile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/database/UserProfile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/UserProfile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/datasource/UserProfileDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/database/UserProfileDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/UserProfileDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/table/UserProfileTable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ZoneReport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.svn/pristine/a2/a2aaa200e6d0e48dad4a937e1f216552ff0694c7.svn-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/layout/activity_amount_tendered.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/layout/activity_batch_printing.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/layout/activity_collection_entry.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/layout/activity_consumer_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/res/layout/activity_consumer_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/layout/activity_consumer_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/layout/activity_fieldfinding_entry.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/layout/activity_reading_entry.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/layout/activity_splash_screen.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/res/layout/activity_splash_screen.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/layout/activity_splash_screen.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/res/layout/activity_summary.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/layout/activity_summary.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/layout/activity_summary_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.svn/pristine/b7/b7baaccf8edcaf5c636a3c89a84840e305610c9f.svn-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/res/drawable/borderbottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/res/drawable/borderfull.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/res/drawable/bordertop.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.svn/pristine/c1/c14511440f88861709ab5899e96c8e44647b2947.svn-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/res/layout/collectiondialog.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/com.androidapp.mytools.eml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/com.androidapp.mytools.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/com.generic.collection.eml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/com.generic.collection.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/com.generic.notice48hrs.eml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/com.generic.notice48hrs.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/com.generic.readandbill.eml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/com.generic.readandbill.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/menu/customer_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/layout/device_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/layout/device_name.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/values-sw600dp/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/values-sw720dp-land/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/values-sw600dp/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/values-sw720dp-land/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.svn/pristine/e2/e29a584d91acdd35ee1362cf27363aa4fbc67965.svn-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.svn/entries" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/res/layout/file_dialog_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/res/layout/file_dialog_row.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.svn/format" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/hs_err_pid2264.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/hs_err_pid8536.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/hs_err_pid9052.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/bin/jarlist.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/lint.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/lint.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/lint.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/layout/list_bluetooth.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/res/layout/menu_consumer_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/res/menu/menu_consumer_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/menu/menu_consumer_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/menu/menu_splash.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/res/xml/preference.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/xml/preference_readandbill.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/proguard-project.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/proguard-project.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/proguard-project.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/proguard-project.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/proguard.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/database/queryHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/layout/row_collection_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/layout/row_consumer_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/res/layout/row_consumer_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/layout/row_consumer_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/layout/row_powerbill_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/layout/row_summary_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/menu/splash_screen.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/res/menu/splash_screen.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/FileExplorer/res/values-ru/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/res/values-v11/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/res/values-v14/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/values-v11/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/values-v14/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/res/values-v11/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/res/values-v14/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/values-v11/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/values-v14/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.collection/res/menu/summary_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/layout/test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Generic Projects/.idea/workspace.xml" />
+    </list>
+    <ignored path="Zaneco Projects.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ReadandBillDatabaseHelper.java" line="16" class="com.zaneco.readandbill.database.ReadandBillDatabaseHelper" package="com.zaneco.readandbill.database">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Zaneco Projects" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ConsumerDataSource.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ConsumerDataSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="71" column="8" selection-start="3554" selection-end="3554" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="5151">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewConnectionDataSource.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/NewConnectionDataSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="13" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="2482">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RateDataSource.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/RateDataSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="56" column="63" selection-start="3105" selection-end="3105" vertical-scroll-proportion="0.0" vertical-offset="952" max-vertical-offset="2805">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadingDataSource.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ReadingDataSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="54" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="340">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnpaidDataSource.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/UnpaidDataSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="0" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="2465">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserProfileDataSource.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/UserProfileDataSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="46" selection-start="1571" selection-end="1571" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1479">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComputeCharges.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ComputeCharges.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="216" column="29" selection-start="5915" selection-end="5915" vertical-scroll-proportion="0.0" vertical-offset="3672" max-vertical-offset="4607">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SplashScreen.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/SplashScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="101" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="6953">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SplashScreen.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.zaneco.notice48hrs/src/com/zaneco/notice48hrs/SplashScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="98" selection-start="2009" selection-end="2009" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="2006">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SplashScreen.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/SplashScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="199" column="148" selection-start="9200" selection-end="9200" vertical-scroll-proportion="0.90340906" vertical-offset="2010" max-vertical-offset="5627">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="D:\Android apk\Zaneco Notice 48hrs" />
+    <option name="KEY_ALIAS" value="notice 48 hrs" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Generic Projects" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/layout/activity_reading_entry.xml" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/MyReadingEntry.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/MyReadingEntry.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ComputeCharges.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/Consumer.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ConsumerDataSource.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/src/com/androidapp/mytools/AppPreferenceActivity.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/SplashScreen.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/SplashScreen.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/Consumer.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ComputeCharges.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/database/ConsumerDataSource.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.notice48hrs/src/com/zaneco/notice48hrs/database/ConsumerDataSource.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.notice48hrs/src/com/zaneco/notice48hrs/database/UserProfileDataSource.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/UnpaidDataSource.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ReadingDataSource.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/MyConsumerList.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/SummaryDataGenerator.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ReadandBillDatabaseHelper.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ReadandBillDatabaseHelper.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/menu/menu_consumer_list.xml" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/SummaryList.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ConsumerDataSource.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/RateDataSource.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ReadingDataSource.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/UserProfileDataSource.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/StatementGenerator.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/SplashScreen.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.notice48hrs/src/com/zaneco/notice48hrs/SplashScreen.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zaneco Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zaneco Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.zaneco.readandbill" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zaneco Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.zaneco.readandbill" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="readandbill" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zaneco Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.zaneco.readandbill" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="readandbill" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zaneco Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.generic.readandbill" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zaneco Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.generic.readandbill" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zaneco Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.generic.readandbill" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zaneco Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.generic.collection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zaneco Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.generic.collection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="ExportedApkPath" value="D:\Android apk\com.zaneco.notice48hrs.apk" />
+    <property name="ExportedModule" value="com.zaneco.notice48hrs" />
+    <property name="last_opened_file_path" value="D:/Android apk/Zaneco Notice 48hrs" />
+    <property name="DEBUGGABLE_DEVICE" value="HT05NPL04701" />
+    <property name="DEBUGGABLE_PROCESS" value="com.zaneco.readandbill" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="test" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="HT05NPL04701" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="AndroidRunProguardForReleaseBuild" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="options.searchVisible" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zaneco.notice48hrs" />
+      <recent name="com.generic.notice48hrs" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.generic.notice48hrs" />
+      <recent name="com.zaneco.notice48hrs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.Zaneco Notice 48hrs">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="com.zaneco.readandbill" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="com.zaneco.readandbill" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Zaneco Notice 48hrs" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="com.zaneco.notice48hrs" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.com.zaneco.readandbill" />
+      <item index="1" class="java.lang.String" itemvalue="Android Application.Zaneco Notice 48hrs" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\Erwin\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Android Projects\Electric Coop Project\Generic Projects\FileExplorer" />
+          <option name="myCopyRoot" value="D:\Android Projects\Electric Coop Project\Generic Projects\FileExplorer" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Android Projects\Electric Coop Project\Generic Projects\FileExplorer" />
+          <option name="myCopyRoot" value="D:\Android Projects\Electric Coop Project\Generic Projects\FileExplorer" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac3b3593-e6ab-4e12-9433-7961b42854eb" name="Default" comment="" />
+      <created>1382499747679</created>
+      <updated>1382499747679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.60734147" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.60734147" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.51240563" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3147942" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34088457" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23961662" sideWeight="0.49263874" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.4916574" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279396" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ConsumerDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="31" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2805" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/StatementGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="637" column="68" selection-start="26907" selection-end="26907" vertical-scroll-proportion="0.0" vertical-offset="10829" max-vertical-offset="12376" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="5" selection-start="2159" selection-end="2159" vertical-scroll-proportion="0.0" vertical-offset="1564" max-vertical-offset="1836" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ConsumerDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="31" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="2703" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/StatementGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="637" column="68" selection-start="26907" selection-end="26907" vertical-scroll-proportion="0.0" vertical-offset="10829" max-vertical-offset="12376" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="5" selection-start="2159" selection-end="2159" vertical-scroll-proportion="0.0" vertical-offset="1564" max-vertical-offset="1836" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/MyReadingEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="23" selection-start="2725" selection-end="2725" vertical-scroll-proportion="0.759434" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/database/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="13" selection-start="550" selection-end="550" vertical-scroll-proportion="0.019790454" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ComputeCharges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="219" selection-start="2135" selection-end="2135" vertical-scroll-proportion="0.021144278" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="5" selection-start="2159" selection-end="2159" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.notice48hrs/src/com/zaneco/notice48hrs/database/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/MyReadingEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="234" column="62" selection-start="7202" selection-end="7256" vertical-scroll-proportion="0.5235849" vertical-offset="3297" max-vertical-offset="4998" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/src/com/androidapp/mytools/bluetooth/BluetoothSharedPrefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="180" selection-end="180" vertical-scroll-proportion="0.11525424" vertical-offset="0" max-vertical-offset="885" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/src/com/androidapp/mytools/AppPreferenceActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="38" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.11638418" vertical-offset="390" max-vertical-offset="1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/SplashScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="30" selection-start="3727" selection-end="3727" vertical-scroll-proportion="0.0" vertical-offset="1178" max-vertical-offset="4029" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/src/com/androidapp/mytools/bluetooth/MyPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="218" column="21" selection-start="6470" selection-end="6470" vertical-scroll-proportion="0.0" vertical-offset="3706" max-vertical-offset="6120" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="176" column="91" selection-start="4152" selection-end="4152" vertical-scroll-proportion="0.0" vertical-offset="1734" max-vertical-offset="2703" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/database/ConsumerDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="197" column="5" selection-start="6279" selection-end="6609" vertical-scroll-proportion="0.7169811" vertical-offset="2703" max-vertical-offset="3604" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.notice48hrs/src/com/zaneco/notice48hrs/database/ConsumerDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="25" selection-start="4758" selection-end="4758" vertical-scroll-proportion="0.8113208" vertical-offset="1564" max-vertical-offset="2465" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/database/UserProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="56" selection-end="56" vertical-scroll-proportion="0.060283687" vertical-offset="0" max-vertical-offset="564" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/database/UserProfileDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="13" selection-start="2355" selection-end="2355" vertical-scroll-proportion="0.8301887" vertical-offset="544" max-vertical-offset="1445" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.notice48hrs/src/com/zaneco/notice48hrs/database/UserProfileDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="0" selection-start="2378" selection-end="2378" vertical-scroll-proportion="0.5471698" vertical-offset="629" max-vertical-offset="1530" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/SplashScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="0" selection-start="2377" selection-end="2377" vertical-scroll-proportion="0.33170733" vertical-offset="680" max-vertical-offset="4573" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/table/ConsumerTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="23" selection-start="1693" selection-end="1693" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1003" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/NewConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="55" selection-end="55" vertical-scroll-proportion="0.037527595" vertical-offset="0" max-vertical-offset="906" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Android/android-sdk/sources/android-18/android/database/sqlite/SQLiteOpenHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="254" column="0" selection-start="11224" selection-end="11224" vertical-scroll-proportion="0.0" vertical-offset="3071" max-vertical-offset="6205" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ReadingDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4454" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/database/CollectionDataHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="130" selection-start="208" selection-end="208" vertical-scroll-proportion="0.07981221" vertical-offset="0" max-vertical-offset="697" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/MyConsumerList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="23" selection-start="714" selection-end="714" vertical-scroll-proportion="0.7372449" vertical-offset="0" max-vertical-offset="1224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/SummaryDataGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="17" selection-start="164" selection-end="164" vertical-scroll-proportion="0.20581114" vertical-offset="0" max-vertical-offset="3128" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/res/menu/menu_newconsumer_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="413" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.7358491" vertical-offset="663" max-vertical-offset="1564">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/SummaryList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="0" selection-start="2507" selection-end="2507" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2805" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ConsumerDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="125" selection-start="3388" selection-end="3388" vertical-scroll-proportion="0.0" vertical-offset="1513" max-vertical-offset="2890" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ReadandBillDatabaseHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="63" selection-start="243" selection-end="259" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ReadandBillDatabaseHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1802">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Android/android-sdk/sources/android-18/com/android/internal/os/ZygoteInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12172" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/menu/menu_consumer_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="34" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.6226415" vertical-offset="0" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/SummaryList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="110" selection-start="650" selection-end="650" vertical-scroll-proportion="0.24528302" vertical-offset="0" max-vertical-offset="901" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ConsumerDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="8" selection-start="3554" selection-end="3554" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="5151">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/NewConnectionDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="2380">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/RateDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="63" selection-start="3105" selection-end="3105" vertical-scroll-proportion="0.0" vertical-offset="586" max-vertical-offset="2720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ReadingDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="54" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/UnpaidDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="5" max-vertical-offset="2363">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/UserProfileDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="46" selection-start="1571" selection-end="1571" vertical-scroll-proportion="0.0" vertical-offset="474" max-vertical-offset="1377">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/StatementGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="416" column="53" selection-start="16354" selection-end="16354" vertical-scroll-proportion="0.0" vertical-offset="6585" max-vertical-offset="12393">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ComputeCharges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="216" column="29" selection-start="5915" selection-end="5915" vertical-scroll-proportion="0.0" vertical-offset="3440" max-vertical-offset="4488">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/SplashScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="101" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6579">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.notice48hrs/src/com/zaneco/notice48hrs/SplashScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="98" selection-start="2009" selection-end="2009" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="2006">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Generic Projects/com.generic.collection/src/com/generic/collection/SplashScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="199" column="148" selection-start="9200" selection-end="9200" vertical-scroll-proportion="0.90340906" vertical-offset="2010" max-vertical-offset="5627">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>com.generic.collection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

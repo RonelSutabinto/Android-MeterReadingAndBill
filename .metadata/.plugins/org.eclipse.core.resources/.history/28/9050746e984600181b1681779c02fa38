@@ -1,0 +1,282 @@
+package com.zaneco.readandbill.database;
+
+import android.content.Context;
+import com.androidapp.mytools.objectmanager.DoubleManager;
+
+public class ComputeCharges extends com.generic.readandbill.database.ComputeCharges{
+	private Consumer consumer;
+	private Rates rate;
+	private ConsumerDataSource dsConsumer;
+	private RateDataSource dsRate;
+	private UnpaidDataSource dsUnpaid;
+	
+	public ComputeCharges(Context context, Consumer consumer) {
+		super(context, consumer);
+        dsUnpaid = new UnpaidDataSource(context);
+        dsRate = new RateDataSource(context);
+        setConsumer(consumer);
+	}
+
+    public Consumer getConsumer() {
+		return consumer;
+	}	
+	public void setConsumer(Consumer consumer) {
+        super.setConsumer(consumer);
+		this.consumer = consumer;
+		this.rate = dsRate.getRate(consumer.getRateCode());
+	}
+	public Rates getRates() {
+		return rate;
+	}
+	public void setRates(Rates rates) {
+		this.rate = rates;
+	}
+
+    public double comKilowatthour() {
+        double kilowatthour = getKilowatthour();
+       // if (kilowatthour <= 14 && consumer.getRateCode().equals("R")) kilowatthour = 15;
+        return kilowatthour;
+    }
+
+    @Override
+    public Double genSys() {
+        return DoubleManager.rRound(comKilowatthour() * rate.getGenSys());
+    }
+
+    @Override
+    public Double hostComm() {
+        return DoubleManager.rRound(comKilowatthour() * rate.getHostComm());
+    }
+
+    @Override
+    public Double tcSystem(){
+        return DoubleManager.rRound(comKilowatthour() * rate.getTcSystem());
+    }
+
+    @Override
+    public Double systemLoss(){
+        return DoubleManager.rRound(comKilowatthour() * rate.getSystemLoss());
+    }
+
+    @Override
+    public Double dcDistribution(){
+        return DoubleManager.rRound(comKilowatthour() * rate.getDcDistribution());
+    }
+
+    @Override
+    public Double scSupplySys(){
+        return DoubleManager.rRound(comKilowatthour() * rate.getScSupplySys());
+    }
+
+    @Override
+    public Double mcSystem(){
+        return DoubleManager.rRound(comKilowatthour() * rate.getMcSys());
+    }
+
+    @Override
+    public Double reinvestmentFundSustCapex(){
+        return DoubleManager.rRound(comKilowatthour() * rate.getReinvestmentFundSustCapex());
+    }
+
+    @Override
+    public Double ucme(){
+        return DoubleManager.rRound(comKilowatthour() * rate.getUcme());
+    }
+
+    @Override
+    public Double ucec(){
+        return DoubleManager.rRound(comKilowatthour() * rate.getUcec());
+    }
+
+    @Override
+    public Double powerActRateRed(){
+        return DoubleManager.rRound(comKilowatthour() * rate.getParr());
+    }
+
+    @Override
+    public Double prevYearAdjPowerCost(){
+        return DoubleManager.rRound(comKilowatthour() * rate.getPrevYearAdjPowerCost());
+    }
+
+    
+
+	public Double ucNPCStrandedDebts() {
+		return DoubleManager.rRound(comKilowatthour() * rate.getUcNpcStrandedDebts());
+	}
+
+	public Double ucNPCStrandedContCost(){
+		return DoubleManager.rRound(comKilowatthour() * rate.getUcNpcStrandedContCost());
+	}
+	
+	public Double ucDUStrandedContCost(){
+		return DoubleManager.rRound(comKilowatthour() * rate.getUcDuStrandedContCost());
+	}
+	
+	public Double ucEqTaxesAndRoyalties(){
+		return DoubleManager.rRound(comKilowatthour() * rate.getUcEqTaxesAndRoyalties());
+	}
+
+	public Double ucCrossSubRemoval() {
+		return DoubleManager.rRound(reading.getDemand() * rate.getUcCrossSubsidyRemoval());
+	}
+
+	public Double icCrossSubsidy(){
+		return DoubleManager.rRound(comKilowatthour() * rate.getIcCrossSubsidy());
+	}
+
+	public Double transSysAncRefund(){
+		return DoubleManager.rRound(comKilowatthour() * rate.getTransSysAncRefund());
+	}
+	
+	public Double flatRateWattage(){
+		return DoubleManager.rRound(comKilowatthour() * rate.getGram());
+	}
+	
+	public Double transDemAncRefund(){
+		return DoubleManager.rRound(comKilowatthour() * rate.getTransDemAncRefund());
+	}
+
+	public Double evatTransAncRefund(){
+		return DoubleManager.rRound(comKilowatthour() * rate.getEvatTransAncRefund());
+	}
+	public double getRptTaxFromR(){
+		 //double result = 0;
+		 //result = consumer.getRptTax();         
+		 return DoubleManager.rRound(comKilowatthour() * consumer.getRptTax());
+	}	
+	public Double FitallCost(){
+		return DoubleManager.rRound(comKilowatthour() * rate.getFitall());
+	}
+	public Double totalPower(){
+		return super.totalPower() +				
+				transSysAncRefund() +
+				transDemAncRefund();
+	}
+	
+	public Double scForDiscount(){
+		return super.scForDiscount(); 
+			  
+	}
+	public Double OtherSeniorCitizenRateAdj(){
+		Double result = 0.0;
+		
+		result = comKilowatthour_A() * rate.getOtherSeniorCitizenRateAdj();
+		if (rate.getRateCode().equals("R") && comKilowatthour()<= rate.getScKiloWattHourLimit() &&
+				consumer.isSeniorCitizen()){
+				 result = 0.0;
+		}else if (lifelineDiscSubs() < 0) {
+			result = 0.0;
+		}
+		
+		return DoubleManager.rRound(result);
+	}
+	public Double seniorCitizenDiscSubs(){
+		Double result = 0.0;
+		if (rate.getScSwitch()){
+			if (rate.getRateCode().equals("R") && rate.getScKiloWattHourLimit() >= comKilowatthour() &&
+				consumer.isSeniorCitizen()){
+				result = seniorCitizenDiscRate();
+				result = (scForDiscount() * result * (rate.getSeniorCitizenDiscount()/100));
+			} else {
+				if (lifelineDiscSubs() > 0) {
+					result = DoubleManager.rRound(comKilowatthour() * rate.getSeniorCitizenSubsidy());
+				}
+			}
+		}
+		return result;
+	}
+	public Double evatPARec(){
+		return PARecovery() * (rate.evat / 100);
+	}
+	public Double VATmcc(){
+		return super.VATmcc();
+	}
+	public Double evatDistribution(){
+		return ((super.evatDistribution() +
+				dcDemand() +
+				dcDistribution() +
+				scRetailCust() +
+				scSupplySys() +
+				mcRetailCust() +
+				mcSystem() +
+				icCrossSubsidy() +
+				lifelineDiscSubs() +
+				OtherSeniorCitizenRateAdj() +
+				seniorCitizenDiscSubs()) * (rate.evat / 100))+ evatPARec();
+	}
+	
+	public Double evatGenCo(){
+		return DoubleManager.rRound(comKilowatthour() * rate.getEvatGenCo());
+	}
+	
+	public Double evatTransCo() {
+		return DoubleManager.rRound(comKilowatthour() * rate.getEvatTransCo());
+	}
+	
+	public Double evatSystemLoss() {
+		return DoubleManager.rRound(comKilowatthour() * rate.getEvatSystemLoss());
+	}
+	
+	public Double evat(){
+		return evatDistribution() +
+			   evatGenCo() +
+			   evatTransCo() +
+			   evatSystemLoss();
+	}
+	
+	public Double evatDiscount(){
+		Double result = 0.0;
+		if (consumer.getEvatDiscount() > 0) {
+			//result = (evatDistribution() * ((consumer.getEvatDiscount() / 100) * -1));
+		}
+		return result;
+	}
+	
+	public Double pantawidSubsidy(){
+		if (consumer.getPantawidSubsidy() < currentBill()) {
+			return consumer.getPantawidSubsidy();
+		} else {
+			return currentBill();
+		}
+	}
+	
+
+	
+	public Double currentBill(){
+		return super.currentBill() +			   
+			   DoubleManager.rRound(ucNPCStrandedContCost() +
+			   ucNPCStrandedDebts() +
+			   ucDUStrandedContCost() +
+			   ucEqTaxesAndRoyalties() +
+			   ucCrossSubRemoval() +
+			   icCrossSubsidy() +
+			   transSysAncRefund() +
+			   transDemAncRefund() +
+			   evat() +
+			   evatDiscount() +
+			   consumer.getOcAmount1() +
+			   consumer.getOcAmount2() +
+			   consumer.getOcAmount3() +
+			   consumer.getTransformerRental() +
+			   flatRateWattage() +			   
+			   evatTransAncRefund() +			   
+			   consumer.getPantawidRecovery() +
+			   seniorCitizenDiscSubs() +
+			   getRptTaxFromR()+
+			   OtherSeniorCitizenRateAdj()+
+			   FitallCost());
+	}
+	
+	public Double pantawidBalance(){
+		return consumer.getPantawidSubsidy() - pantawidSubsidy();
+	}
+	
+	public Double totalBill() {
+		Double result = 0.0;
+		if (pantawidSubsidy() < currentBill()) {
+			result = (currentBill() - pantawidSubsidy());
+		}
+		return result + dsUnpaid.getTotalUnpaid(consumer.getCode());
+	}
+	
+}

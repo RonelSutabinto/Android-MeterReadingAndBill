@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/com.androidapp.mytools.iml" filepath="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/com.androidapp.mytools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/com.generic.notice48hrs.iml" filepath="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/com.generic.notice48hrs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/com.generic.readandbill.iml" filepath="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/com.generic.readandbill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.zaneco.notice48hrs/com.zaneco.notice48hrs.iml" filepath="$PROJECT_DIR$/com.zaneco.notice48hrs/com.zaneco.notice48hrs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.zaneco.readandbill/com.zaneco.readandbill.iml" filepath="$PROJECT_DIR$/com.zaneco.readandbill/com.zaneco.readandbill.iml" />
+    </modules>
+  </component>
+</project>
+

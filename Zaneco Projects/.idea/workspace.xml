@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="com.zaneco.readandbill" />
+        <option name="logTagPattern" value="" />
+        <option name="name" value="Zaneco Read And Bill" />
+        <option name="pid" value="" />
+      </filter>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="com.zaneco.notice48hrs" />
+        <option name="logTagPattern" value="" />
+        <option name="name" value="Zaneco Notice 48hrs" />
+        <option name="pid" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidDesignerProfile">
+    <option name="fullProfile">
+      <profile>
+        <option name="device" value="2.7in QVGA" />
+        <option name="deviceConfiguration" value="Portrait" />
+        <option name="targetHashString" value="android-18" />
+        <option name="theme" value="AppTheme" />
+      </profile>
+    </option>
+    <option name="selection" value="[Full]" />
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState />
+    </option>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Zaneco Notice 48hrs" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac3b3593-e6ab-4e12-9433-7961b42854eb" name="Default" comment="" />
+    <ignored path="Zaneco Projects.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Zaneco Projects" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SplashScreen.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.zaneco.notice48hrs/src/com/zaneco/notice48hrs/SplashScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2142">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SplashScreen.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/SplashScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="159" column="83" selection-start="6532" selection-end="6532" vertical-scroll-proportion="0.0" vertical-offset="5304" max-vertical-offset="6511">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Consumer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/Consumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="218" column="0" selection-start="4988" selection-end="4988" vertical-scroll-proportion="0.0" vertical-offset="1787" max-vertical-offset="2448">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsumerDataSource.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ConsumerDataSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="234" column="103" selection-start="11875" selection-end="11875" vertical-scroll-proportion="0.0" vertical-offset="3521" max-vertical-offset="4896">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComputeCharges.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ComputeCharges.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="239" column="38" selection-start="6489" selection-end="6489" vertical-scroll-proportion="0.36068377" vertical-offset="3733" max-vertical-offset="4318">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StatementGenerator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/StatementGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="389" column="0" selection-start="17653" selection-end="17653" vertical-scroll-proportion="0.0" vertical-offset="6282" max-vertical-offset="12240">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="D:\Android apk\ZanecoReadAndBill" />
+    <option name="KEY_ALIAS" value="readandbill" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Generic Projects" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/layout/activity_reading_entry.xml" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/MyReadingEntry.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ComputeCharges.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/Consumer.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/src/com/androidapp/mytools/AppPreferenceActivity.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/SplashScreen.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/SplashScreen.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.notice48hrs/src/com/zaneco/notice48hrs/database/ConsumerDataSource.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.notice48hrs/src/com/zaneco/notice48hrs/database/UserProfileDataSource.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/SummaryDataGenerator (Erwin's conflicted copy 2014-03-09).java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/SummaryDataGenerator.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/SummaryList (Erwin's conflicted copy 2014-03-09).java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/SummaryList.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/src/com/androidapp/mytools/bluetooth/MyPrinter (Erwin's conflicted copy 2014-03-09).java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.androidapp.mytools/src/com/androidapp/mytools/bluetooth/MyPrinter.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/MyReadingEntry (Erwin's conflicted copy 2014-03-09).java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/MyReadingEntry.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/menu/menu_consumer_list (Erwin's conflicted copy 2014-03-09).xml" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/res/menu/menu_consumer_list.xml" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ConsumerDataSource (Erwin's conflicted copy 2014-03-09).java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ConsumerDataSource.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/FieldFindingDataSource (Erwin's conflicted copy 2014-03-09).java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/FieldFindingDataSource.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/RateDataSource (Erwin's conflicted copy 2014-03-09).java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/RateDataSource.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ReadandBillDatabaseHelper (Erwin's conflicted copy 2014-03-09).java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ReadandBillDatabaseHelper.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ReadingDataSource (Erwin's conflicted copy 2014-03-09).java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/ReadingDataSource.java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/UserProfileDataSource (Erwin's conflicted copy 2014-03-09).java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.readandbill/src/com/generic/readandbill/database/UserProfileDataSource.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/MyConsumerList (Erwin's conflicted copy 2014-03-09).java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/MyConsumerList.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ConsumerDataSource (Erwin's conflicted copy 2014-03-09).java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/RateDataSource (Erwin's conflicted copy 2014-03-09).java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/RateDataSource.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ReadandBillDatabaseHelper (Erwin's conflicted copy 2014-03-09).java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ReadandBillDatabaseHelper.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/UnpaidDataSource (Erwin's conflicted copy 2014-03-09).java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/UnpaidDataSource.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/UserProfileDataSource (Erwin's conflicted copy 2014-03-09).java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/UserProfileDataSource.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.notice48hrs/src/com/zaneco/notice48hrs/SplashScreen (Erwin's conflicted copy 2014-03-09).java" />
+        <option value="$PROJECT_DIR$/../Generic Projects/com.generic.notice48hrs/src/com/generic/notice48hrs/database/ConsumerDataSource.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.notice48hrs/src/com/zaneco/notice48hrs/SplashScreen.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/Consumer.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ConsumerDataSource.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/SplashScreen.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/StatementGenerator.java" />
+        <option value="$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ComputeCharges.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zaneco Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zaneco Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.zaneco.readandbill" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zaneco Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.zaneco.readandbill" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="readandbill" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Generic Projects" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zaneco.notice48hrs" />
+      <recent name="com.generic.notice48hrs" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.generic.notice48hrs" />
+      <recent name="com.zaneco.notice48hrs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.com.zaneco.notice48hrs">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="com.zaneco.readandbill" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="com.zaneco.readandbill" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Zaneco Notice 48hrs" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="com.zaneco.notice48hrs" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="com.zaneco.notice48hrs" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="com.zaneco.notice48hrs" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.com.zaneco.readandbill" />
+      <item index="1" class="java.lang.String" itemvalue="Android Application.Zaneco Notice 48hrs" />
+      <item index="2" class="java.lang.String" itemvalue="Android Application.com.zaneco.notice48hrs" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\Erwin\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Android Projects\Electric Coop Project\Generic Projects\FileExplorer" />
+          <option name="myCopyRoot" value="D:\Android Projects\Electric Coop Project\Generic Projects\FileExplorer" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Android Projects\Electric Coop Project\Generic Projects\FileExplorer" />
+          <option name="myCopyRoot" value="D:\Android Projects\Electric Coop Project\Generic Projects\FileExplorer" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac3b3593-e6ab-4e12-9433-7961b42854eb" name="Default" comment="" />
+      <created>1382499747679</created>
+      <updated>1382499747679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.60734147" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.60734147" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.51240563" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34088457" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34088457" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26943558" sideWeight="0.49263874" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.4916574" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32842582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/com.zaneco.notice48hrs/src/com/zaneco/notice48hrs/SplashScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2142">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/SplashScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="208" column="99" selection-start="9665" selection-end="9665" vertical-scroll-proportion="0.0" vertical-offset="3162" max-vertical-offset="6613">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4505">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ConsumerDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="307" column="0" selection-start="15332" selection-end="15332" vertical-scroll-proportion="0.0" vertical-offset="5219" max-vertical-offset="5321">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ComputeCharges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="275" column="35" selection-start="7476" selection-end="7476" vertical-scroll-proportion="0.0" vertical-offset="4675" max-vertical-offset="4777">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/StatementGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="381" column="68" selection-start="17317" selection-end="17317" vertical-scroll-proportion="0.0" vertical-offset="6477" max-vertical-offset="12733">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/SplashScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="98" selection-start="2651" selection-end="2651" vertical-scroll-proportion="0.0" vertical-offset="1343" max-vertical-offset="6885" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/StatementGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="637" column="68" selection-start="26907" selection-end="26907" vertical-scroll-proportion="0.0" vertical-offset="10829" max-vertical-offset="12376" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/StatementGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="637" column="68" selection-start="26907" selection-end="26907" vertical-scroll-proportion="0.0" vertical-offset="10829" max-vertical-offset="12376" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/StatementGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="637" column="68" selection-start="26907" selection-end="26907" vertical-scroll-proportion="0.0" vertical-offset="10829" max-vertical-offset="12376" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/MyReadingEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="23" selection-start="2725" selection-end="2725" vertical-scroll-proportion="0.759434" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.notice48hrs/src/com/zaneco/notice48hrs/database/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.notice48hrs/src/com/zaneco/notice48hrs/database/UserProfileDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="0" selection-start="2378" selection-end="2378" vertical-scroll-proportion="0.0" vertical-offset="565" max-vertical-offset="1445" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/SummaryDataGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="90" selection-start="666" selection-end="666" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3128">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1365#1373#0" expanded="true" />
+            <element signature="e#1908#1916#0" expanded="true" />
+            <element signature="e#3246#3254#0" expanded="true" />
+            <element signature="e#4514#4522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/SummaryList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="71" selection-start="1154" selection-end="1154" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/MyConsumerList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="7" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1105" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/RateDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="159" column="0" selection-start="7565" selection-end="7565" vertical-scroll-proportion="0.0" vertical-offset="2173" max-vertical-offset="2805" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ReadandBillDatabaseHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="0" selection-start="3027" selection-end="3027" vertical-scroll-proportion="0.0" vertical-offset="1153" max-vertical-offset="1785" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/UnpaidDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="139" column="0" selection-start="4300" selection-end="4300" vertical-scroll-proportion="0.0" vertical-offset="1833" max-vertical-offset="2465" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/UserProfileDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="0" selection-start="2802" selection-end="2802" vertical-scroll-proportion="0.0" vertical-offset="474" max-vertical-offset="1377" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Android/android-sdk/sources/android-18/com/android/internal/os/ZygoteInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="116" selection-start="1448" selection-end="1448" vertical-scroll-proportion="0.79812205" vertical-offset="0" max-vertical-offset="12410" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.notice48hrs/src/com/zaneco/notice48hrs/database/ConsumerDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="79" selection-start="334" selection-end="334" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2363" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.notice48hrs/src/com/zaneco/notice48hrs/SplashScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2006">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="218" column="0" selection-start="4988" selection-end="4988" vertical-scroll-proportion="0.0" vertical-offset="1787" max-vertical-offset="2448">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ConsumerDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="234" column="103" selection-start="11875" selection-end="11875" vertical-scroll-proportion="0.0" vertical-offset="3521" max-vertical-offset="4896">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/SplashScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="159" column="83" selection-start="6532" selection-end="6532" vertical-scroll-proportion="0.0" vertical-offset="5304" max-vertical-offset="6511">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/StatementGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="389" column="0" selection-start="17653" selection-end="17653" vertical-scroll-proportion="0.0" vertical-offset="6282" max-vertical-offset="12240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.zaneco.readandbill/src/com/zaneco/readandbill/database/ComputeCharges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="239" column="38" selection-start="6489" selection-end="6489" vertical-scroll-proportion="0.36068377" vertical-offset="3733" max-vertical-offset="4318">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android|com.androidapp.mytools</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

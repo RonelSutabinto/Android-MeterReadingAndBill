@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <group
+            android:id="@+id/igSort"
+            android:checkableBehavior="single"
+            android:menuCategory="container"
+            android:visible="true" >
+        <item
+                android:id="@+id/iclSortByAccountNumber"
+                android:checked="true"
+                android:title="Sort by account number">
+        </item>
+        <item
+                android:id="@+id/iclSortBySequence"
+                android:title="Sort by sequence">
+        </item>
+        <item
+                android:id="@+id/iclSortByName"
+                android:title="Sort by name">
+        </item>
+        <item
+                android:id="@+id/iclSortByMeterSerial"
+                android:title="Sort by meter serial">
+        </item>
+        <item   android:id="@+id/iclViewUnread" 
+                android:title="View Unread">
+            
+        </item>
+        <item 
+                android:id="@+id/iclViewAll" 
+                android:title="View All">
+            
+        </item>
+    </group>
+    <group
+            android:id="@+id/igSummary"
+            android:checkableBehavior="none"
+            android:menuCategory="container">
+        <item
+                android:id="@+id/islPrintSummary"
+                android:title="Print Summary"
+                android:visible="false">
+        </item>
+    </group>
+
+</menu>

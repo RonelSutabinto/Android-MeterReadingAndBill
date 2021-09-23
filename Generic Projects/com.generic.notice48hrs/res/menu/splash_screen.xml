@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/issFile" android:title="File">
+        <menu>
+            <item android:id="@+id/issProcessTextFile" android:title="Process Text Files"/>
+        </menu>
+    </item>
+    <item android:id="@+id/issEntry" android:title="Entry">
+        <menu>
+            <item android:id="@+id/issDisco" android:title="Disco List"/>
+            <item android:id="@+id/issSummary" android:title="Summary"/>
+        </menu>
+    </item>
+    <item 
+        android:id="@+id/issBluetoothSetting"
+        android:title="Bluetooth Setting">
+	</item>
+</menu>

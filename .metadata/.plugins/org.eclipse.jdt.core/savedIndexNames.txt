@@ -1,0 +1,25 @@
+INDEX VERSION 1.126+D:\My Source Code\2018\GADGET\ReadAndBill Android\.metadata\.plugins\org.eclipse.jdt.core
+1575179980.index
+163172794.index
+305854171.index
+1299022128.index
+4108727661.index
+492782096.index
+4155206848.index
+1115467115.index
+573543369.index
+3601242130.index
+3065916431.index
+4041092966.index
+2576733281.index
+30765161.index
+3433272519.index
+923973684.index
+3133528496.index
+3974580528.index
+3237934564.index
+1697886153.index
+1694597867.index
+1995173708.index
+1498219845.index
+2853116700.index

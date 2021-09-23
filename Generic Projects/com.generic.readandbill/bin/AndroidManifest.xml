@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.generic.readandbill"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.generic.readandbill.com.zaneco.notice48hrs.SplashScreen"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.generic.readandbill.MyReadingEntry"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.READINGENTRY" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.generic.readandbill.MyFieldFindingEntry"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.FIELDFINDINGENTRY" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.generic.readandbill.com.zaneco.notice48hrs.MyConsumerList"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.CONSUMERLIST" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.generic.readandbill.SummaryList"            
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.SUMMARY" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        
+        <activity
+            android:name="com.generic.readandbill.BatchPrintingSOA"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.BATCHPRINTINGSOA" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.generic.readandbill.ReadandBillPreferenceActivity"/>
+    </application>
+
+</manifest>

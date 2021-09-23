@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HorizontalScrollView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scrollbars="none">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent" 
+        android:orientation="vertical">
+        
+        <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">   
+            
+            <EditText 
+                android:id="@+id/etclSearch"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:textSize="20sp"/>
+            
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="5dp"
+                android:gravity="center"
+                android:text="@string/clAccountNumber"
+                android:textSize="20sp"
+                 />
+            
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="5dp"
+                android:gravity="center"
+                android:text="@string/clName"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="5dp"
+                android:gravity="center"
+                android:text="@string/clAddress"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/cllLabelMeterSerial"
+                android:layout_width="80dp"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:layout_marginLeft="5dp"
+                android:text="@string/clMeterSerial"
+                android:textSize="20sp" />
+            
+            <TextView 
+                android:layout_width="80dp"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:layout_marginLeft="5dp"
+                android:text="@string/cllServed"
+                android:textSize="20sp"/>
+        </LinearLayout>
+
+        <ListView
+            android:id="@android:id/list"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+        </ListView>
+    </LinearLayout>
+
+</HorizontalScrollView>

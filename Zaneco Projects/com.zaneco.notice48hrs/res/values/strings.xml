@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notice 48 Hours</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="clAccountNumber">Account Number</string>
+    <string name="clName">Name</string>
+    <string name="clAddress">Address</string>
+    <string name="clMeterSerial">Meter Serial</string>
+    <string name="clServed">Served</string>
+
+</resources>
